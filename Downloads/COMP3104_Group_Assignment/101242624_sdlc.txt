@@ -1,3 +1,7 @@
-A DevOps engineer is a software professional who is equipped with the skills to streamline systems or software development cycles. 
+- A DevOps engineer is a software professional who is equipped with the skills to streamline systems or software development cycles. 
 They combine elements of software development and IT operations. DevOps engineers can ensure continuous delivery without having to 
 compromise the high quality of their software. DevOps Engineer Job Description
+
+- The DevOps philosophy continues to evolve and new roles and responsibilities are being created. 
+It is interesting to note that even though these roles are listed separately by companies, there is often overlap 
+in the responsibilities, duties and skills requirements. Today, the following list contains job titles for DevOps Engineers.
