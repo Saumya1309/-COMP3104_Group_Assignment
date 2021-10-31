@@ -2,7 +2,7 @@ This the group assignment.
 
 Have 4 members in it.
 
-Vraj Soni
-saumya mistry
-karan sharma
-farhan dougar
+(1) Vraj Soni
+(2) Saumya mistry
+(3) karan sharma
+(4) farhan dougar.
