@@ -1,3 +1,5 @@
 In systems engineering, information systems and software engineering, the systems development life cycle (SDLC), also referred to as the application development life-cycle, is a process for planning, creating, testing, and deploying an information system.
 
 Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality softwares. The SDLC aims to produce a high-quality software that meets or exceeds customer expectations, reaches completion within times and cost estimates.
+
+The new seven phases of SDLC include planning, analysis, design, development, testing, implementation, and maintenance.
