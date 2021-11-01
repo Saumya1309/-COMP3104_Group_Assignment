@@ -4,4 +4,4 @@ notice a reduction in the cost of compliance, codes are analyzed, tested, delive
 
 Now more companies are adopting DevSecOps
 DevSecOps allows the process of deploying security in an organization, and makes them accountable.
-It is essential to have a methodology
+It is essential to have a methodology that needs to be embedded within the DevOps pipeline to help you in improving your security on your SDLC
