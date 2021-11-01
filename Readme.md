@@ -4,7 +4,9 @@ Group 40
 
 Group Members 
 
-1. Karan SHarma
-2. Vraj Soni
-3. Farhan Dogar
+1. Farhan Dogar
+2. Karan Sharma
+3. Vraj Soni
 4. Saumya Mistry
+
+All 10 commits were made with some content added with each commit. 
