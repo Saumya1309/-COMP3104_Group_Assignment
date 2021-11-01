@@ -3,4 +3,4 @@ stages, and technologyWhile implementing DevSecOps on the SDLC, enterprises, and
 notice a reduction in the cost of compliance, codes are analyzed, tested, delivered, and released appropriately.
 
 Now more companies are adopting DevSecOps
-DevSecOps allows the process of deploying security in an organization
+DevSecOps allows the process of deploying security in an organization, and makes them accountable.
