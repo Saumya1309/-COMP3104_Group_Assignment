@@ -1,2 +1,2 @@
 in COMP3104 DevOps, we'll learn that DevOps is the combination of cultural philosophies, practices, and tools that
-increases an organization's ability to deliver applications and services at high velocity
+increases an organization's ability to deliver applications and services at high velocity, evolving and improving products

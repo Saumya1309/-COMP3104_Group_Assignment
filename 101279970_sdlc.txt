@@ -1,3 +1,5 @@
 Devops is all about integrating security throughout the software development lifecycle with the assistance of various people, 
 stages, and technologyWhile implementing DevSecOps on the SDLC, enterprises, and companies experience continuous incorporation and 
 notice a reduction in the cost of compliance, codes are analyzed, tested, delivered, and released appropriately.
+
+Now more companies are adopting DevSecOps
